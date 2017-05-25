@@ -1,0 +1,1 @@
+python /Users/mjohnpayne/Documents/Uni/phd/random_python_scripts/seq_extract/extract_seq_from_pmaa.py protein /Users/mjohnpayne/Documents/Uni/phd/random_python_scripts/seq_extract/trial_acc.txt /Users/mjohnpayne/Documents/Uni/phd/random_python_scripts/seq_extract/Pm_from_gb.gb /Users/mjohnpayne/Documents/Uni/phd/random_python_scripts/seq_extract/trial_prot_out.txt 

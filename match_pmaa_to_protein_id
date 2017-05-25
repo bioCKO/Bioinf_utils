@@ -1,0 +1,14 @@
+
+import re
+
+infile = open('/Users/mjohnpayne/Desktop/merge_pm_embl/Pm_annot.embl',"r")
+outfile = open('/Users/mjohnpayne/Desktop/merge_pm_embl/Pm_annot.embl',"w")
+
+
+
+
+for line in infile:
+    if line.find('/locus_tag') > 0:
+        pmaa = line[33:44]
+        print pmaa
+        
